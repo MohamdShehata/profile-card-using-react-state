@@ -39,7 +39,7 @@ class App extends React.Component {
           <div>
             <h3 className="heading-name">
               {this.Person.profession}
-            </h3>
+            </h3> 
           </div> 
          
              
